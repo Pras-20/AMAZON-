@@ -91,16 +91,9 @@ amazon-rating-prediction/
 └── README.md
 ```
 
-## Dataset Features
+## Output Feature
 
-Your model will work with features such as:
-
-- Review text and sentiment
-- Product category and subcategory
-- Price and discount information
-- Verified purchase status
-- Review helpfulness votes
-- Product description and metadata
+- total_revenue
 
 ## Key Endpoints (Provided on Competition Day)
 
