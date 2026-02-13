@@ -126,6 +126,7 @@ Your backend must expose:
 - Handle categorical features appropriately (product categories, brands)
 - Monitor for seasonal trends and promotional periods that may cause drift
 - Start simple with your drift detection algorithm (statistical tests, distribution comparison)
+- Make sure to Log all inputs coming through your API end-points (helps detect drift)
 - Log comprehensive metrics for debugging
 - Version your models clearly
 - Test your containerized API locally before submission
