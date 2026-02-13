@@ -97,7 +97,7 @@ amazon-rating-prediction/
 
 ## Key Endpoints (Provided on Competition Day)
 
-- **Data Fetch Endpoint**: `GET https://container-chaos-b2c6bde72854.herokuapp.com/amazon/train-test` - Returns train and test datasets
+- **Data Fetch Endpoint**: `GET https://container-chaos-b2c6bde72854.herokuapp.com/api/amazon/train-test` - Returns train and test datasets
 
 ## Implementation Requirements
 
